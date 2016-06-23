@@ -1,0 +1,17 @@
+{"menu": {
+  "id": "file",
+  "value": "File",
+  "popup": {
+    "menuitem":
+		{
+			"ASD" : {"value": "New", "onclick": "CreateNewDoc()"},
+			"ATWED" : {"value": "Open", "onclick": "OpenDoc()"},
+			"ATWXCZXCED" : {"value": "Close", "onclick": "CloseDoc()"
+		}
+    },
+    "array" : [
+		1, "asdasd", {"value": "New", "onclick": "CreateNewDoc()"}, "qwe"
+	]
+  }
+}}
+
